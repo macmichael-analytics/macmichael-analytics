@@ -70,7 +70,7 @@
 | 🧩 **ELT-Pipeline-with-Fivetran-Snowflake-and-DBT** | This project implements an end-to-end ELT pipeline for e-commerce data using Fivetran, Snowflake and dbtL. | Snowflake • PySpark • SQL • Microsoft SQL Server • Medallion Architecture • Fivetran |
 | 🏥 **Data-Modeling-Project** | This data modeling project aims to answer some real-world business problems about operating a made-up traveling circus. | SQL |
 | 💉 **Airflow Spark Snowflake Data Pipeline** | This is an end-to-end data platform for ingesting, processing, modeling, and serving e‑commerce operational and clickstream data.. | Apache Airflow • Apache Kafka • Apache Spark • Snowflake • DBT • Power BI • Streamlit (and Airflow UI) |
-| 🌍 **Project Love In Action** | Supported data collection and visualization for nonprofit outreach in Ubakala, Nigeria. | Python • Google Sheets • Airtable |
+| 🌍 **Ecommerce Business Intelligence Project** | The primary goal of this project is to analyse and optimize marketing channels, measure and test website conversion performance, and analyse data to determine the impact of new product launches. | MYSQL • SQL • Tableau |
 
 
 
