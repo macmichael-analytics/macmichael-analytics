@@ -67,7 +67,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧩 **ETL Marketing Data Pipeline** | Automated metadata-driven ETL pipeline to unify data from Meta, Google Ads, and LinkedIn into PostgreSQL. | ADF • PySpark • Azure Blob • PostgreSQL |
+| 🧩 **ELT-Pipeline-with-Fivetran-Snowflake-and-DBT** | This project implements an end-to-end ELT pipeline for e-commerce data using Fivetran, Snowflake and dbtL. | Snowflake • PySpark • SQL • Microsoft SQL Server • Medallion Architecture • Fivetran |
 | 🏥 **Healthcare Real Estate Analytics** | Created Power BI dashboards to track property performance across senior care facilities in Texas. | Power BI • SQL • Azure Synapse |
 | 💉 **Medical Spa Performance Insights** | Built a dbt + Snowflake data model to analyze campaign ROI for a medical aesthetics firm. | dbt • Snowflake • Google Analytics |
 | 🌍 **Project Love In Action** | Supported data collection and visualization for nonprofit outreach in Ubakala, Nigeria. | Python • Google Sheets • Airtable |
