@@ -72,6 +72,7 @@
 | 💉 **Airflow Spark Snowflake Data Pipeline** | This is an end-to-end data platform for ingesting, processing, modeling, and serving e‑commerce operational and clickstream data.. | Apache Airflow • Apache Kafka • Apache Spark • Snowflake • DBT • Power BI • Streamlit (and Airflow UI) |
 | 🌍 **Ecommerce Business Intelligence Project** | The primary goal of this project is to analyse and optimize marketing channels, measure and test website conversion performance, and analyse data to determine the impact of new product launches. | MYSQL • SQL • Tableau |
 | 🌍 **Air Quality Data Pipeline on Snowflake** | This project implements an end-to-end data pipeline architecture using Snowflake (on AWS) to collect, process, and visualize Air Quality Index (AQI) data from multiple global monitoring stations. | Snowflake (AWS) • Airflow • Tableau • Snowflake SQL • Snowpark • GitHub Actions • Streamlit |
+| 🌍 **COVID-19 Data-Engineering Analytics Pipeline** | This project builds a real-world enterprise-grade analytics pipeline using Microsoft Azure to ingest, transform, store, model, and visualize global COVID-19 statistics. | Azure DataFactory • Azure HDinsight (Hive) • Azure Databricks (Pyspark, SparkSql) • Azure Storage Account • Azure Data Lake Gen2 • Azure SQL Database • Power BI |
 
 
 
