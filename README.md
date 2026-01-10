@@ -72,7 +72,6 @@
 |  **[Air-Quality-Data-Pipeline-on-Snowflake](https://github.com/macmichael-analytics/Air-Quality-Data-Pipeline-on-Snowflake)**             | End-to-end data pipeline using Snowflake (AWS) to collect, process, and visualize Air Quality Index data from global stations.                                  | Snowflake (AWS) • Airflow • Tableau • Snowflake SQL • Snowpark • GitHub Actions • Streamlit                                             |
 |  **[COVID-19-Data-Engineering-Analytics-Pipeline](https://github.com/macmichael-analytics/COVID-19-Data-Engineering-Analytics-Pipeline)** | Builds a scalable enterprise-grade analytics pipeline using Microsoft Azure for global COVID-19 data.                                                           | Azure DataFactory • Azure HDInsight • Azure Databricks (PySpark) • Azure Storage • Azure Data Lake Gen2 • Azure SQL Database • Power BI |
 
-|  **[COVID-19-Data-Engineering-Analytics-Pipeline](https://github.com/macmichael-analytics/COVID-19-Data-Engineering-Analytics-Pipeline)** | Builds a scalable enterprise-grade analytics pipeline using Microsoft Azure for global COVID-19 data.                                                           | Azure DataFactory • Azure HDInsight • Azure Databricks (PySpark) • Azure Storage • Azure Data Lake Gen2 • Azure SQL Database • Power BI |
 
 
 
